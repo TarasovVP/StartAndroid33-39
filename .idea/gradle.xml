@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0211twoactivity" />
+            <option value="$PROJECT_DIR$/p0231_oneactivitystate" />
+            <option value="$PROJECT_DIR$/p0321_simplebrowser" />
+            <option value="$PROJECT_DIR$/p0331_sharedpreferences" />
+            <option value="$PROJECT_DIR$/p0341_simplesqlite" />
+            <option value="$PROJECT_DIR$/p0361_sqlitequery" />
+            <option value="$PROJECT_DIR$/p0371_sqliteinnerjoin" />
+            <option value="$PROJECT_DIR$/p0381_sqlitetransaction" />
+            <option value="$PROJECT_DIR$/p0391_sqliteonupgradedb" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

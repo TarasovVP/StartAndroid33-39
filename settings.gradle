@@ -1,0 +1,1 @@
+include ':app', ':p0211twoactivity', ':p0231_oneactivitystate', ':p0321_simplebrowser', ':p0331_sharedpreferences', ':p0341_simplesqlite', ':p0361_sqlitequery', ':p0371_sqliteinnerjoin', ':p0381_sqlitetransaction', ':p0391_sqliteonupgradedb'
